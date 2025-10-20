@@ -1,0 +1,1 @@
+# US7: Training & Evaluation (YOLO)\n\nNotebooks for YOLO training and evaluation. The `models` folder holds trained weights.
