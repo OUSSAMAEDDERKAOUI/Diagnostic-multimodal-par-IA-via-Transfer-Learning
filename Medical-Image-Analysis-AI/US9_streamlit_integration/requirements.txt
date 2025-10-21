@@ -1,0 +1,1 @@
+streamlit\ntorch\ntorchvision\nopencv-python\n

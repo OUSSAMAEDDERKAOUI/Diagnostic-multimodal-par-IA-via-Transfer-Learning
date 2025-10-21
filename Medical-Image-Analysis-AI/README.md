@@ -1,0 +1,1 @@
+# Medical-Image-Analysis-AI\n\nProject scaffold with notebooks replacing the original Python scripts as requested.

@@ -1,0 +1,1 @@
+# US3: Training & Evaluation (PyTorch)\n\nNotebooks for training and evaluating models. The `models` folder holds trained weights.
