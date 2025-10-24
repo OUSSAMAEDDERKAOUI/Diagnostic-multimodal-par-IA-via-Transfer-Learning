@@ -1,1 +1,0 @@
-# Sprint Plan\n\nPlaceholder sprint plan.

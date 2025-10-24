@@ -1,1 +1,0 @@
-# User Manual\n\nPlaceholder user manual.
