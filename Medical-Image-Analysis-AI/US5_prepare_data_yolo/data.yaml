@@ -1,15 +1,20 @@
 
-train: ../data/part_two_data/output/images/train
-val: ../data/part_two_data/output/images/val
-test: ../data/part_two_data/output/images/val  
+# train: ../data/part_two_data/output/images/train
+# val: ../data/part_two_data/output/images/val
+# test: ../data/part_two_data/output/images/val  
 
-nc: 4  
+# nc: 4  
 
-names: 
-  0: Glioma
-  1: Meningioma
-  2: No Tumor
-  3: Pituitary
+# names: 
+#   0: Glioma
+#   1: Meningioma
+#   2: No Tumor
+#   3: Pituitary
 
-augment:
-  enabled: false  
+# augment:
+#   enabled: false  
+train: /content/dataset/output/images/train
+val: /content/dataset/output/images/val
+
+nc: 4
+names: ['Pituitary', 'Meningioma', 'Glioma', 'No']
